@@ -1,0 +1,34 @@
+/* CSS Document */
+#head{
+	background: #FECD00;
+	height:70px;
+
+	}
+
+#side{
+	float:left;
+	width:20%;
+	height: 300px;
+	background-color: #5DCCEA;
+}
+#content{
+	float: left;
+	width:60%;
+	height: auto;
+	background-color: none;
+	color: #3B3BEB;
+}
+#footer{
+	clear: both;
+	width: 100%;
+	height: auto;
+	color: #D64547;
+}
+
+
+.p{
+	font-family:"Lucida Console", "Courier New", monospace;
+	background-color: #090909;
+	color:aliceblue;
+	
+}
